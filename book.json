@@ -1,0 +1,10 @@
+{
+    "gitbook": "3.x.x",
+    "title": "我做程序员的那些操蛋日子里",
+    "description": "我做程序员的那些操蛋日子里，收集的乱七八糟的东西。",
+    "structure": {
+        "readme": "PREFACE.md",
+        "summary": "CONTENT.md"
+    },
+    "plugins": ["-search"]
+}
