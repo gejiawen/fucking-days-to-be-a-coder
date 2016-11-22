@@ -1,10 +1,15 @@
 {
-    "gitbook": "3.x.x",
+    "gitbook": "3.2.2",
     "title": "我做程序员的那些操蛋日子里",
     "description": "我做程序员的那些操蛋日子里，收集的乱七八糟的东西。",
     "structure": {
-        "readme": "PREFACE.md",
-        "summary": "CONTENT.md"
+        "readme": "intro.md",
+        "summary": "summary.md"
     },
-    "plugins": ["-search"]
+    "plugins": ["-sharing", "-search", "-lunr", "github", "theme-default"],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://github.com/gejiawen/fucking-days-to-be-a-coder"
+		}
+	}
 }
