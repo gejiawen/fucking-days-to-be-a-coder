@@ -6,10 +6,5 @@
         "readme": "intro.md",
         "summary": "summary.md"
     },
-    "plugins": ["-sharing", "-search", "-lunr", "github", "theme-default"],
-	"pluginsConfig": {
-		"github": {
-			"url": "https://github.com/gejiawen/fucking-days-to-be-a-coder"
-		}
-	}
+    "plugins": ["-search"]
 }
